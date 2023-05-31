@@ -1,2 +1,6 @@
 # mymorningdevopsclass
-# This is newly added content from cli
+##Instruction for installing packages
+```
+sudo apt install net-tools
+```
+## This is newly added content from cli
