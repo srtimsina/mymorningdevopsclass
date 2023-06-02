@@ -8,5 +8,7 @@ sudo apt install net-tools
 
 New change for disabling ff merge
 
-
+Hello, Today is Friday. It is the last day of the week
 This line is just for testing
+
+This will create merge conflict on purposefully
