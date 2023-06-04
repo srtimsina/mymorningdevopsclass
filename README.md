@@ -4,8 +4,6 @@ This is a simple devops repo for practicing git.
 ```
 sudo apt install net-tools
 ```
-## This is newly added content from cli
-
 This is yet another change for ff merge testng
 Adding changes in main branch for creati
 ##Contributions
