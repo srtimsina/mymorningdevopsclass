@@ -1,3 +1,4 @@
 #!/bin/bash
 sudo apt-get update
-sudo apt-get install -y git apache2 vim
+# This line will install packages in ubuntu machine
+sudo apt-get install git apache2 vim
