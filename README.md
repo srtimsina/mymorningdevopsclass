@@ -1,5 +1,6 @@
 # mymorningdevopsclass
 This is a simple devops repo for practicing git.
+This is a newly added line
 ## Instruction for installing packages
 ```
 sudo apt install net-tools
