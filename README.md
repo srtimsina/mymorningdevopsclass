@@ -6,11 +6,11 @@ This is a simple devops repo for practicing git.
 ```
 sudo apt install net-tools
 ```
-###Documentation
+### Documentation
 [Techaxis.com.np](https://www.techaxis.com.np)
 
-##Contributions
+## Contributions
 This is a opensource project, anyone can contribute to the project.....
 
-##License and Copyright
+## License and Copyright
 Techaxis 2023
