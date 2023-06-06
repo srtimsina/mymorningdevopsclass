@@ -10,7 +10,7 @@ sudo apt install net-tools
 [Techaxis.com.np](https://www.techaxis.com.np)
 
 ### Contributions
-This is a opensource project, anyone can contribute to the project.....
+This is a opensource project, anyone can contribute to the project...
 
 ### API reference
 Get all items
