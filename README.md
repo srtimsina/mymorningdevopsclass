@@ -22,5 +22,5 @@ Get all items
 | `api_key` |`string`| **Required**. Your API key |
 
 ### License and Copyright
-Techaxis@2023
+Techaxis @ 2023
 
